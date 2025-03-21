@@ -1,0 +1,63 @@
+body {
+  font-family: 'Helvetica', Arial, sans-serif;
+}
+
+
+#clock{
+  color:;
+  font-size: 2rem;
+  color:orange;
+}
+
+#banner{
+  capacity: 0.5;
+  height: 200px
+}
+
+#timer {
+    text-align: center;
+    font-size: 1em; /* Make it bigger */
+    font-weight: bold;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh; /* Full screen height */
+    flex-direction: column;
+
+    
+}
+
+
+/*text and box color*/
+h1{
+  color:turquoise;
+  text-align: center;
+  font-size: 4rem;
+}
+
+#timerInput {
+  background-color:white;
+  color:teal;
+}
+#timer {
+  color:teal;
+  text-align:left;
+  font-size: 4rem;
+  font-weight: bold;
+  
+}
+
+#timerImage {
+    margin-top: 30px; /* Add some space between the timer and the image */
+    width: 50px; /* Adjust the width of the image */
+    height: 50px; /* Adjust the height of the image */
+    object-fit: contain; /* Ensures the aspect ratio is maintained */
+align-items: right;
+}
+
+h1{
+  font-size: 2rem
+}
